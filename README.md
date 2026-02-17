@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Stefano 👋
 
-<!--
-**stefanopisani91/stefanopisani91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 Bridging Clinical Medicine, Biology & Data Science
 
-Here are some ideas to get you started:
+I am a **Data Analyst and Bioinformatician** with a unique trajectory. Coming from a strong foundational background in Clinical Medicine and currently advancing my studies in Biology, I specialize in transforming complex health and biological data into actionable, software-driven insights. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My philosophy is simple: **You can't engineer what you don't understand.** I use my clinical knowledge to define the *"Why"* and modern AI-Assisted Engineering to build the *"How"*.
+
+### 🚀 What I do
+- **HealthTech Development:** Architecting Clinical Decision Support Systems (CDSS) that mimic real-world medical reasoning.
+- **Data Analysis & Synthetic Data:** Handling complex datasets, ensuring GDPR compliance through statistical generation of synthetic patient cohorts.
+- **AI Orchestration:** Leveraging LLM agents to accelerate coding, bridging the gap between clinical theory and scalable software deployment.
+
+### 🌟 Featured Project: NeuroDiag-AI
+I recently built a probabilistic diagnostic tool trained on 10,000 synthetic patients, featuring an "Onion Triage" architecture to mimic a clinician's differential diagnosis process. 
+
+👉 **[TRY THE LIVE WEB APP HERE](https://neurodiag-ai-medicine.streamlit.app/)** 👈
+*(Or check out the [source code repository](https://github.com/stefanopisani91/NeuroDiag-AI))*
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, SQL
+* **Data & ML:** Pandas, Scikit-Learn, SQLite
+* **Frontend/Deployment:** Streamlit
+* **Methodologies:** AI-Assisted Engineering, Progressive Triage UX, Synthetic Data Engineering
+
+### 📫 Let's Connect
+I'm always open to discussing HealthTech innovation, bioinformatics pipelines, or data analysis roles.
+- **LinkedIn:** Not yet.
+- **Email:** stepcloud3@icloud.com
+---
+*"Engineering the future of health data, one logical step at a time."*
