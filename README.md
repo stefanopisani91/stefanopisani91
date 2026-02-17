@@ -1,8 +1,11 @@
 # Hi there, I'm Stefano 👋
+Italy 🇮🇹
 
 ### 🧬 Bridging Clinical Medicine, Biology & Data Science
 
-I am a **Data Analyst and Bioinformatician** with a unique trajectory. Coming from a strong foundational background in Clinical Medicine and currently advancing my studies in Biology, I specialize in transforming complex health and biological data into actionable, software-driven insights. 
+I am a **Data Analyst and Bioinformatician** with a unique trajectory. Coming from a strong foundational background in Clinical Medicine at an Italian university and currently advancing my studies in Biology, I specialize in transforming complex health and biological data into actionable, software-driven insights. 
+
+I possess a true **"cultural bilingualism"** between healthcare and technology. Having nearly completed a medical degree and passed numerous advanced clinical exams, I fluently speak the language of medicine. Today, I translate that deep clinical intuition into the technical languages of Data Science and Artificial Intelligence.
 
 My philosophy is simple: **You can't engineer what you don't understand.** I use my clinical knowledge to define the *"Why"* and modern AI-Assisted Engineering to build the *"How"*.
 
@@ -27,5 +30,6 @@ I recently built a probabilistic diagnostic tool trained on 10,000 synthetic pat
 I'm always open to discussing HealthTech innovation, bioinformatics pipelines, or data analysis roles.
 - **LinkedIn:** Not yet.
 - **Email:** stepcloud3@icloud.com
+
 ---
 *"Engineering the future of health data, one logical step at a time."*
