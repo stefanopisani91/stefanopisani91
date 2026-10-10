@@ -29,7 +29,7 @@ I recently built a probabilistic diagnostic tool trained on 10,000 synthetic pat
 ### 📫 Let's Connect
 I'm always open to discussing HealthTech innovation, bioinformatics pipelines, or data analysis roles.
 - **LinkedIn:** Not yet.
-- **Email:** stepcloud3@icloud.com
+- **Email:** stepun3@gmail.com
 
 ---
 *"Engineering the future of health data, one logical step at a time."*
